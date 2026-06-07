@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: #170046;
+    background-color: #6d0404;
 
 }
 
@@ -17,13 +17,15 @@ body {
     width: 300px;
     margin: 20px auto;
     display: block;
+    color: #FFF;
+    font-size: 24px;
 
 }
 
 main {
     width: 375px;
     border-radius: 20px;
-    background: #F4F4F4;
+    background: #aaa2a2;
     margin: 0 auto 40PX;
     padding: 44px 24px;
 }
@@ -54,7 +56,7 @@ input {
 
 button {
     border-radius: 5px;
-    background: #772FD3;
+    background: #6d0404;
     height: 48px;
     width: 100%;
     border: none;
@@ -82,6 +84,8 @@ section {
 
 .Arrow-img {
     margin: 15px 0;
+    width: 50px;
+
 }
 
 .currency-box {
@@ -95,14 +99,14 @@ section {
 }
 
 .currency {
-    color: #777;
+    color: #000000;
     font-size: 14px;
     font-weight: 400;
 
 }
 
 .currency-value,currency-value-to-convert {
-    color: #555;
+    color: #000000;
     font-size: 20px;
     font-weight: 700;
 

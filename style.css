@@ -90,6 +90,9 @@ section {
     align-items: center;
     gap: 4px;
 }
+.currency-image {
+    width: 50px;
+}
 
 .currency {
     color: #777;
